@@ -3,7 +3,7 @@
 Killcut ist ein lokaler Desktop-Clip-Cutter für FiveM-Gameplay-Aufnahmen. Alle Videos werden direkt auf dem eigenen PC verarbeitet und nicht auf externe Server hochgeladen.
 
 ### Download
-[Hier findest du immer die neueste Version!](https://github.com/son1c56/killcut-killclipper/realeased/latest)
+[Hier findest du immer die neueste Version!](https://github.com/son1c56/killcut-killclipper/realeases/latest)
 
 ## Funktionen
 
