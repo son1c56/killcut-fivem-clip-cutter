@@ -1,4 +1,4 @@
-# Killcut 1.0.16
+# Killcut - Clip-Cutter | by son1c_56
 
 Killcut ist ein lokaler Desktop-Clip-Cutter für Gameplay-Aufnahmen. Alle Videos werden direkt auf dem eigenen PC verarbeitet und nicht auf externe Server hochgeladen.
 
