@@ -7,6 +7,7 @@ Killcut ist ein lokaler Desktop-Clip-Cutter für FiveM-Gameplay-Aufnahmen. Alle 
 
 ## Funktionen
 
+- Läuft nur auf Windows
 - Automatische Kill-Erkennung
 - Unterstützung verschiedener Kill-Anzeigen und QR-Marker
 - Einstellbarer Erkennungsbereich in der Videovorschau
