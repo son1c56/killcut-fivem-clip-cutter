@@ -1,4 +1,4 @@
-![Killcut Banner](https://media.discordapp.net/attachments/1170370034439303270/1538699896436170925/content.png?ex=6a83a172&is=6a824ff2&hm=ea424d348a32e3a431fea41dd40ab8ba5d6bba1e5a7dccd721ade7528f14aed5&=&format=webp&quality=lossless&width=1024&height=341)
+![Killcut Banner](https://media.discordapp.net/attachments/1170370034439303270/1538700520313724968/killcut-banner.png?ex=6a83a207&is=6a825087&hm=817f28662ae3e7adfc5984dabe5ee6f0f126b3726817ac6910a826bb210bea24&=&format=webp&quality=lossless&width=640&height=151)
 # Killcut - FiveM Clip-Cutter | by son1c_56
 DEIN KILL. DEIN CLIP.
 
