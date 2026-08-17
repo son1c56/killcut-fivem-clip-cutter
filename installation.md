@@ -34,6 +34,7 @@ Die SHA-256-Prüfsumme von Killcut 1.1.0 lautet:
 `4173DD32F34AFDBE6B8CB99A76D4D3FA580A5F57AB727C02EEFC6BC4E41306C4`
 
 **Überprüfung mit PowerShell:**
+
 Öffne Powershell -> Füge den command unten ein und führe diesen aus!
 Danach wird der Installer auf Schadsoftwäre überprüft
 
