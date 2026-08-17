@@ -16,7 +16,7 @@ Killcut besitzt derzeit noch kein kostenpflichtiges Code-Signing-Zertifikat. Win
 > Der Computer wurde durch Windows geschützt  
 > Microsoft Defender SmartScreen hat den Start einer unbekannten App verhindert.
 
-Wenn Killcut ausschließlich über das offizielle [GitHub-Repository](https://github.com/son1c56/killcut-fivem-clip-cutter/realeases/latest) heruntergeladen wurde:
+Wenn Killcut ausschließlich über das offizielle [GitHub-Repository](https://github.com/son1c56/killcut-fivem-clip-cutter/releases/latest) heruntergeladen wurde:
 
 1. Klicke im SmartScreen-Fenster auf **Weitere Informationen**.
 2. Kontrolliere, dass als App der heruntergeladene Killcut-Installer angezeigt wird.
