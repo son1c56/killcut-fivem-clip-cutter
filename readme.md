@@ -15,8 +15,8 @@
  <img
   src="images/Discord-Symbol-White.png"
   alt="Discord Logo"
-  width="20"
-  height="20"
+  width="18"
+  height="18"
 />
 
 </p>
