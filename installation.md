@@ -39,24 +39,7 @@ Die SHA-256-Prüfsumme von Killcut 1.1.0 lautet:
 Danach wird der Installer auf Schadsoftwäre überprüft
 
 ```powershell
-$installerPath = "$env:USERPROFILE\Downloads\killcut-setup-1.1.2.exe"
-$expectedHash = "18932D71A5DA1281CC0C3F581A8671FBE8C1104441BFA4C8FF08713AE3B7C0E2"
-
-if (-not (Test-Path -LiteralPath $installerPath)) {
-    Write-Host "Datei nicht gefunden: $installerPath" -ForegroundColor Yellow
-}
-else {
-    $actualHash = (Get-FileHash -Algorithm SHA256 -LiteralPath $installerPath).Hash
-
-    if ($actualHash -eq $expectedHash) {
-        Write-Host "Prüfsumme stimmt – der Killcut-Installer ist unverändert." -ForegroundColor Green
-    }
-    else {
-        Write-Host "WARNUNG: Prüfsumme stimmt nicht! Datei nicht ausführen." -ForegroundColor Red
-        Write-Host "Erwartet: $expectedHash"
-        Write-Host "Erhalten: $actualHash"
-    }
-}
+$installerPath="$env:USERPROFILE\Downloads\killcut-setup-1.1.2.exe"; $expectedHash="18932D71A5DA1281CC0C3F581A8671FBE8C1104441BFA4C8FF08713AE3B7C0E2"; if(-not(Test-Path -LiteralPath $installerPath)){Write-Host "Datei nicht gefunden: $installerPath" -ForegroundColor Yellow}else{$actualHash=(Get-FileHash -Algorithm SHA256 -LiteralPath $installerPath).Hash;if($actualHash -eq $expectedHash){Write-Host "Prüfsumme stimmt - der Killcut-Installer ist unverändert." -ForegroundColor Green}else{Write-Host "WARNUNG: Prüfsumme stimmt nicht! Datei nicht ausführen." -ForegroundColor Red;Write-Host "Erwartet: $expectedHash";Write-Host "Erhalten: $actualHash"}}
 
 ```
 > [!WARNING]
