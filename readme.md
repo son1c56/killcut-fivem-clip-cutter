@@ -18,7 +18,7 @@ Killcut ist ein lokaler Desktop-Clip-Cutter für FiveM-Gameplay-Aufnahmen. Alle 
 
 ## Download
 
-[Hier findest du immer die neueste Version!](https://github.com/son1c56/killcut-clipcutter/releases/latest)
+[Hier findest du immer die neueste Version!](https://github.com/son1c56/killcut-fivem-clip-cutter/releases/latest)
 
 ## Funktionen
 
@@ -60,13 +60,15 @@ Killcut ist ein lokaler Desktop-Clip-Cutter für FiveM-Gameplay-Aufnahmen. Alle 
 </p>
 
 <p>
-  <a href="https://github.com/son1c56/killcut-killclipper/releases/latest">Download</a>
+  <a href="https://github.com/son1c56/killcut-fivem-clip-cutter/releases/latest">Download</a>
   ·
-  <a href="https://github.com/son1c56/killcut-killclipper/releases">Versionen</a>
+  <a href="https://github.com/son1c56/killcut-fivem-clip-cutter/releases">Versionen</a>
   ·
-  <a href="https://github.com/son1c56/killcut-killclipper/issues">Fehler melden</a>
+  <a href="https://github.com/son1c56/killcut-fivem-clip-cutter/issues">Fehler melden</a>
 </p>
 
 <sub>DEIN KILL. DEIN CLIP.</sub>
-
+<br>
+<br>
+<sub>Killcut steht in keiner Verbindung zu Rockstar Games oder Take-Two Interactive. „GTA“ ist eine Marke der jeweiligen Rechteinhaber.</sub>
 </div>
