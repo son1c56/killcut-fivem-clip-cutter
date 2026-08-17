@@ -83,4 +83,5 @@ Killcut ist ein lokaler Desktop-Clip-Cutter für FiveM-Gameplay-Aufnahmen. Alle 
 <br>
 <br>
 <sub>Killcut steht in keiner Verbindung zu Rockstar Games oder Take-Two Interactive. „GTA“ ist eine Marke der jeweiligen Rechteinhaber.</sub>
+<sub>Killcut steht in keiner Verbindung zu Cfx.re / FiveM. „FiveM“ ist eine Marke der jeweiligen Rechteinhaber.</sub>
 </div>
