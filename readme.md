@@ -1,11 +1,23 @@
-![Killcut Banner](https://media.discordapp.net/attachments/1170370034439303270/1538700520313724968/killcut-banner.png?ex=6a83a207&is=6a825087&hm=817f28662ae3e7adfc5984dabe5ee6f0f126b3726817ac6910a826bb210bea24&=&format=webp&quality=lossless&width=640&height=151)
-# Killcut - FiveM Clip-Cutter | by son1c_56
-DEIN KILL. DEIN CLIP.
+<div align="center">
 
+<img
+  src="images/killcut-banner.png"
+  alt="Killcut – FiveM Clip Cutter"
+  width="900"
+/>
+
+<h1>Killcut – FiveM Clip-Cutter</h1>
+
+<h3>DEIN KILL. DEIN CLIP.</h3>
+
+<p>by son1c_56</p>
+
+</div>
 
 Killcut ist ein lokaler Desktop-Clip-Cutter für FiveM-Gameplay-Aufnahmen. Alle Videos werden direkt auf dem eigenen PC verarbeitet und nicht auf externe Server hochgeladen.
 
-### Download
+## Download
+
 [Hier findest du immer die neueste Version!](https://github.com/son1c56/killcut-killclipper/releases/latest)
 
 ## Funktionen
@@ -35,3 +47,26 @@ Killcut ist ein lokaler Desktop-Clip-Cutter für FiveM-Gameplay-Aufnahmen. Alle 
 - Automatische Update-Suche über GitHub Releases
 - Updates werden direkt im bestehenden Installationspfad installiert
 - Vollständig lokale Videoverarbeitung
+
+<br>
+
+---
+
+<div align="center">
+
+<p>
+  <strong>Killcut – FiveM Clip-Cutter</strong><br>
+  Entwickelt von <strong>son1c_56</strong>
+</p>
+
+<p>
+  <a href="https://github.com/son1c56/killcut-killclipper/releases/latest">Download</a>
+  ·
+  <a href="https://github.com/son1c56/killcut-killclipper/releases">Versionen</a>
+  ·
+  <a href="https://github.com/son1c56/killcut-killclipper/issues">Fehler melden</a>
+</p>
+
+<sub>DEIN KILL. DEIN CLIP.</sub>
+
+</div>
