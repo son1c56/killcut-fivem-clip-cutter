@@ -3,7 +3,8 @@
 <img
   src="images/killcut-banner.png"
   alt="Killcut – FiveM Clip Cutter"
-  width="900"
+  width="700"
+  height="250"
 />
 
 <h1>Killcut – FiveM Clip-Cutter</h1>
