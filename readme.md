@@ -30,7 +30,7 @@ Killcut ist ein lokaler Desktop-Clip-Cutter für FiveM-Gameplay-Aufnahmen. Alle 
 [Hier findest du immer die neueste Version!](https://github.com/son1c56/killcut-fivem-clip-cutter/releases/latest)
 
 ### Installationsanleitung für Killcut
-[Hier findest du die vollständige Anleitung zum Installiervon von Killcut mit einer Überprüfungsanleitung]
+[Hier findest du die vollständige Anleitung zum Installiervon von Killcut mit einer Überprüfungsanleitung](https://github.com/son1c56/killcut-fivem-clip-cutter/installation.md)
 
 ## Funktionen
 
