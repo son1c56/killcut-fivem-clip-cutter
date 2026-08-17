@@ -31,7 +31,7 @@ Falls Windows Defender ausdrücklich einen Virus oder eine konkrete Bedrohung me
 
 Die SHA-256-Prüfsumme von Killcut 1.1.0 lautet:
 
-`4173DD32F34AFDBE6B8CB99A76D4D3FA580A5F57AB727C02EEFC6BC4E41306C4`
+`18932D71A5DA1281CC0C3F581A8671FBE8C1104441BFA4C8FF08713AE3B7C0E2`
 
 **Überprüfung mit PowerShell:**
 
@@ -43,4 +43,4 @@ Get-FileHash -Algorithm SHA256 "$env:USERPROFILE\Downloads\killcut-setup-1.1.0.e
 
 ```
 > [!WARNING]
-Sollte dieser Hash ( `4173DD32F34AFDBE6B8CB99A76D4D3FA580A5F57AB727C02EEFC6BC4E41306C4` ) nicht erscheinen, lösche den Installer und lade dir den [Offiziellen Killcut Installer hier herunter](https://github.com/son1c56/killcut-fivem-clip-cutter/releases/latest)
+Sollte dieser Hash ( `18932D71A5DA1281CC0C3F581A8671FBE8C1104441BFA4C8FF08713AE3B7C0E2` ) nicht erscheinen, lösche den Installer und lade dir den [Offiziellen Killcut Installer hier herunter](https://github.com/son1c56/killcut-fivem-clip-cutter/releases/latest)
