@@ -11,7 +11,12 @@
 
 <h3>DEIN KILL. DEIN CLIP.</h3>
 
-<p>by son1c_56</p>
+<p>by son1c_56</p> <img
+  src="images/Discord-Symbol-White.png"
+  alt="Discord Logo"
+  width="50"
+  height="50"
+/>
 
 </div>
 
