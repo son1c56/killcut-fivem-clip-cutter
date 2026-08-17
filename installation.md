@@ -39,4 +39,4 @@ Die SHA-256-Prüfsumme von Killcut 1.1.0 lautet:
 Danach wird der Installer auf Schadsoftwäre überprüft
 
 ```powershell
-Get-FileHash -Algorithm SHA256 ".\killcut-setup-1.1.0.exe"
+Get-FileHash -Algorithm SHA256 "$env:USERPROFILE\Downloads\killcut-setup-1.1.0.exe"
