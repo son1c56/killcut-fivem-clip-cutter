@@ -42,5 +42,5 @@ Danach wird der Installer auf Schadsoftwäre überprüft
 Get-FileHash -Algorithm SHA256 "$env:USERPROFILE\Downloads\killcut-setup-1.1.0.exe"
 
 ```
-> [!WICHTIG]
+> [!WARNING]
 Sollte dieser Hash ( `4173DD32F34AFDBE6B8CB99A76D4D3FA580A5F57AB727C02EEFC6BC4E41306C4` ) nicht erscheinen, lösche den Installer und lade dir den [Offiziellen Killcut Installer hier herunter](https://github.com/son1c56/killcut-fivem-clip-cutter/releases/latest)
