@@ -1,0 +1,66 @@
+name: 💡 Verbesserungsvorschlag
+description: Schlage eine neue Funktion oder Verbesserung für Killcut vor
+title: "[Feature]: "
+labels: ["enhancement"]
+assignees:
+  - son1c56
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für deinen Vorschlag! Bitte beschreibe deine Idee so genau wie möglich, damit wir sie gut einschätzen können.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Vorab-Check
+      description: Bitte bestätige Folgendes, bevor du fortfährst.
+      options:
+        - label: Ich habe die [bestehenden Issues](https://github.com/son1c56/killcut-fivem-clip-cutter/issues) durchsucht und keinen doppelten Vorschlag gefunden.
+          required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Welches Problem löst dieser Vorschlag?
+      description: Beschreibe die Situation oder das Problem, das dich zu diesem Vorschlag bringt.
+      placeholder: z. B. "Aktuell ist es umständlich, wenn..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Vorgeschlagene Lösung
+      description: Wie stellst du dir die Funktion oder Verbesserung vor?
+      placeholder: Beschreibe deine Idee möglichst konkret...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativen
+      description: Hast du bereits andere Lösungen oder Workarounds in Betracht gezogen?
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Bereich
+      description: Worauf bezieht sich der Vorschlag am ehesten?
+      options:
+        - Kill-Erkennung
+        - Manueller Schnittmodus / Timeline
+        - Export & Kompression
+        - Mediathek
+        - Einstellungen / Presets
+        - Updates
+        - Sonstiges
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Zusätzlicher Kontext
+      description: Screenshots, Mockups oder weitere Details, die helfen könnten.
