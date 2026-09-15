@@ -1,0 +1,86 @@
+name: 🐛 Bug Report
+description: Melde einen Fehler in Killcut – FiveM Clip-Cutter
+title: "[Bug]: "
+labels: ["bug"]
+assignees:
+  - son1c56
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke, dass du dir die Zeit nimmst, einen Bug zu melden! Bitte fülle die Felder unten so genau wie möglich aus.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Vorab-Check
+      description: Bitte bestätige Folgendes, bevor du fortfährst.
+      options:
+        - label: Ich habe die [bestehenden Issues](https://github.com/son1c56/killcut-fivem-clip-cutter/issues) durchsucht und keinen doppelten Eintrag gefunden.
+          required: true
+        - label: Ich nutze die [neueste Version](https://github.com/son1c56/killcut-fivem-clip-cutter/releases/latest) von Killcut.
+          required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung des Problems
+      description: Was ist passiert? Was hast du erwartet?
+      placeholder: Beschreibe den Bug so genau wie möglich...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Schritte zur Reproduktion
+      description: Wie können wir den Fehler nachstellen?
+      placeholder: |
+        1. Video importieren...
+        2. Kill-Erkennung starten...
+        3. Fehler tritt auf bei...
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Killcut-Version
+      description: Welche Version von Killcut verwendest du? (siehe Einstellungen/Über)
+      placeholder: z. B. 1.2.0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: gpu
+    attributes:
+      label: Grafikkarte / Encoder
+      description: Welche Hardware bzw. welcher Encoder ist betroffen?
+      options:
+        - NVIDIA (NVENC)
+        - AMD (AMF)
+        - CPU-Fallback (Software)
+        - Weiß ich nicht
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: Windows-Version
+      placeholder: z. B. Windows 11 24H2
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Fehlermeldung
+      description: Falls vorhanden, füge relevante Logs oder Screenshots der Fehlermeldung ein.
+      render: shell
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Zusätzlicher Kontext
+      description: Gibt es sonst noch etwas, das wichtig sein könnte? (z. B. Videoformat, Framerate, Clip-Länge)
